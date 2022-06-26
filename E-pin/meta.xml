@@ -1,0 +1,14 @@
+<meta>
+    <info author="Casti" name="E-pin" version="3.0.0" />
+    
+    <script src="ayarlar_c.lua" type="client" cache="false" />
+    <script src="ayarlar_s.lua" type="server" cache="false" />
+    
+    <script src="manager.luac" type="client" cache="false" />
+    <script src="create.luac" type="client" cache="false" />
+    <script src="activate.luac" type="client" cache="false" />
+    <script src="server.luac" type="server"/>
+    
+    <file src="dosyalar/font.otf" />
+    
+</meta>
